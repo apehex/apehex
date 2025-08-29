@@ -16,14 +16,14 @@
 
 - [explot][github-explot] - Toolbox for internal NN inspection
 - [mlable][github-mlable] - Keras equivalent of `transformers`
-- [tokun][github-tokun] - Byte-level VAEs for text >> tokenizers
+- [tokun][github-tokun] - Byte-level VAEs >> tokenizers
 - [ctfs][github-writeups] - Hundreds of CTF writeups, locked
 
 </td><td valign="top" width="30%">
 
 ### Datasets
 
-- [EVM contracts][huggingface-contracts] - bytecode to sourcecode
+- [EVM contracts][huggingface-contracts] - byte to source code
 - [ASCII art][huggingface-ascii-art] - text to ASCII art
 - [ASCII images][huggingface-ascii-images] - text to ASCII image
 
