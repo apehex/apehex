@@ -5,7 +5,7 @@
 
 ### Articles
 
-- [This title is already tokenized][article-layers]
+- [Composite embeddings][article-layers]
 - [Tokenization is a dead weight][article-tokun]
 - [Image diffusion on fractal text][article-diffusion]
 - [GPM: Generative Password Manager][article-password]
