@@ -23,9 +23,9 @@
 
 ### Datasets
 
-- [EVM contracts][huggingface-contracts]
-- [ASCII art][huggingface-ascii-art]
-- [ASCII images][huggingface-ascii-images]
+- [EVM contracts][huggingface-contracts] - bytecode to sourcecode
+- [ASCII art][huggingface-ascii-art] - text to ASCII art
+- [ASCII images][huggingface-ascii-images] - text to ASCII image
 
 </td></tr></table>
 
