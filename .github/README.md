@@ -29,7 +29,9 @@
 
 </td></tr></table>
 
-![My github stats][github-stats]
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=apehex&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" title="My github stats" height="256px" width="50%" />
+</div>
 
 [article-diffusion]: https://huggingface.co/blog/apehex/image-diffusion-on-text
 [article-password]: https://huggingface.co/blog/apehex/gpm
