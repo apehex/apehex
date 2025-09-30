@@ -8,7 +8,7 @@
 - [Composite embeddings][article-layers]
 - [Tokenization is a dead weight][article-tokun]
 - [Image diffusion on fractal text][article-diffusion]
-- [GPM: Generative Password Manager][article-password]
+- [Generative Password Manager][article-password]
 
 </td><td valign="top" width="40%">
 
@@ -23,9 +23,11 @@
 
 ### Datasets
 
-- [EVM contracts][huggingface-contracts] - byte to source code
-- [ASCII art][huggingface-ascii-art] - text to ASCII art
-- [ASCII images][huggingface-ascii-images] - text to ASCII image
+- EVM:
+    - [contracts][huggingface-contracts] - byte to source code
+- ASCII:
+    - [art][huggingface-ascii-art] - text to ASCII art
+    - [images][huggingface-ascii-images] - text to ASCII image
 
 </td></tr></table>
 
