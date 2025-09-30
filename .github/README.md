@@ -1,7 +1,7 @@
 - :mag_right: currently dissecting gpt-oss: optimizing latent directions $\iff$ adversarial prefixes and suffixes, with probing models
 - :triangular_flag_on_post: I love CTFs: continuous learning with hands-on projects and CTFs, lately [MI challenges][github-casper] and [AgentDojo on HackaPrompt][hackaprompt-agent]
 
-<table width="100%"><tr><td valign="top" width="40%">
+<table width="100%"><tr><td valign="top" width="35%">
 
 ### Articles
 
@@ -10,7 +10,7 @@
 - [Image diffusion on fractal text][article-diffusion]
 - [Generative Password Manager][article-password]
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="35%">
 
 ### Projects
 
@@ -19,7 +19,7 @@
 - [tokun][github-tokun] - byte-level VAEs >> tokenizers
 - [ctfs][github-writeups] - CTF writeups, locked
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="30%">
 
 ### Datasets
 
