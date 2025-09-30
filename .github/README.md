@@ -14,10 +14,10 @@
 
 ### Projects
 
-- [psAI ops][github-psaiops] - Toolbox for activation engineering
-- [mlable][github-mlable] - Keras equivalent of `transformers`
-- [tokun][github-tokun] - Byte-level VAEs >> tokenizers
-- [ctfs][github-writeups] - Hundreds of CTF writeups, locked
+- [psAI ops][github-psaiops] - cache & activation engineering
+- [mlable][github-mlable] - `transformers` in Keras
+- [tokun][github-tokun] - byte-level VAEs >> tokenizers
+- [ctfs][github-writeups] - CTF writeups, locked
 
 </td><td valign="top" width="30%">
 
