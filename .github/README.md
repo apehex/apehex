@@ -1,7 +1,7 @@
 - :mag_right: currently dissecting gpt-oss: optimizing latent directions $\iff$ adversarial prefixes and suffixes, with probing models
 - :triangular_flag_on_post: I love CTFs: continuous learning with hands-on projects and CTFs, lately [MI challenges][github-casper] and [AgentDojo on HackaPrompt][hackaprompt-agent]
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="35%">
 
 ### Articles
 
@@ -10,7 +10,7 @@
 - [Image diffusion on fractal text][article-diffusion]
 - [Generative Password Manager][article-password]
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="35%">
 
 ### Projects
 
@@ -19,9 +19,7 @@
 - [tokun][github-tokun] - byte-level VAEs >> tokenizers
 - [ctfs][github-writeups] - CTF writeups, locked
 
-</td></tr></table>
-
-<table><tr><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 ### Datasets
 
@@ -30,7 +28,6 @@
 - [text to ASCII image][huggingface-ascii-images]
 
 </td></tr></table>
-
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=apehex&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" title="My github stats" height="256px" width="50%" />
