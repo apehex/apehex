@@ -14,7 +14,7 @@
 
 ### Projects
 
-- [explot][github-explot] - Toolbox for internal NN inspection
+- [psAI ops][github-psaiops] - Toolbox for activation engineering
 - [mlable][github-mlable] - Keras equivalent of `transformers`
 - [tokun][github-tokun] - Byte-level VAEs >> tokenizers
 - [ctfs][github-writeups] - Hundreds of CTF writeups, locked
@@ -23,11 +23,9 @@
 
 ### Datasets
 
-- EVM:
-    - [contracts][huggingface-contracts] - byte to source code
-- ASCII:
-    - [art][huggingface-ascii-art] - text to ASCII art
-    - [images][huggingface-ascii-images] - text to ASCII image
+- [EVM byte to source code][huggingface-contracts]
+- [text to ASCII art][huggingface-ascii-art]
+- [text to ASCII image][huggingface-ascii-images]
 
 </td></tr></table>
 
@@ -42,7 +40,7 @@
 [github-writeups]: https://github.com/Hackplayers/hackthebox-writeups
 
 [github-casper]: https://github.com/thestephencasper/mechanistic_interpretability_challenge
-[github-explot]: https://github.com/apehex/explot
+[github-psaiops]: https://github.com/apehex/psai-ops
 [github-mlable]: https://github.com/apehex/mlable
 [github-tokun]: https://github.com/apehex/tokun
 [github-stats]: https://github-readme-stats.vercel.app/api?username=apehex&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true
