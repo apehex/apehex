@@ -1,7 +1,7 @@
 - :mag_right: currently dissecting gpt-oss: optimizing latent directions $\iff$ adversarial prefixes and suffixes, with probing models
 - :triangular_flag_on_post: I love CTFs: continuous learning with hands-on projects and CTFs, lately [MI challenges][github-casper] and [AgentDojo on HackaPrompt][hackaprompt-agent]
 
-<table width="100%"><tr><td valign="top" width="35%">
+<div width="100%"><table width="100%"><tr><td valign="top" width="35%">
 
 ### Articles
 
@@ -27,7 +27,7 @@
 - [text to ASCII art][huggingface-ascii-art]
 - [text to ASCII image][huggingface-ascii-images]
 
-</td></tr></table>
+</td></tr></table></div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=apehex&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" title="My github stats" height="256px" width="50%" />
